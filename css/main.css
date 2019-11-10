@@ -54,7 +54,7 @@ p {
   display: block;
   padding: .2em .5em .3em;
   background-color: #e2e2e2;
-  text-align: center;
+  text-align: left;
 }
 
 .book-2 {
@@ -67,7 +67,7 @@ p {
   display: block;
   padding: .2em .5em .3em;
   background-color: #ccc;
-  text-align: center;
+  text-align: left;
 }
 
 .book-3 {
@@ -80,7 +80,7 @@ p {
   display: block;
   padding: .2em .5em .3em;
   background-color: #aaa;
-  text-align: center;
+  text-align: left;
 }
 
 .book-4 {
@@ -93,5 +93,5 @@ p {
   display: block;
   padding: .2em .5em .3em;
   background-color: #999;
-  text-align: center;
+  text-align: left;
 }
