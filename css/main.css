@@ -43,3 +43,55 @@ p {
   font-size: .875rem;
   font-weight: bold;
 }
+
+.book-1 {
+  color: #333;
+  font-weight: normal;
+  font-family: Georgia, serif;
+  text-decoration: none;
+  font-size: 1.125rem;
+  max-width: 20em;
+  display: block;
+  padding: .2em .5em .3em;
+  background-color: #e2e2e2;
+  text-align: center;
+}
+
+.book-2 {
+  color: #333;
+  font-weight: normal;
+  font-family: Georgia, serif;
+  text-decoration: none;
+  font-size: 1.125rem;
+  max-width: 20em;
+  display: block;
+  padding: .2em .5em .3em;
+  background-color: #ccc;
+  text-align: center;
+}
+
+.book-3 {
+  color: #333;
+  font-weight: normal;
+  font-family: Georgia, serif;
+  text-decoration: none;
+  font-size: 1.125rem;
+  max-width: 20em;
+  display: block;
+  padding: .2em .5em .3em;
+  background-color: #aaa;
+  text-align: center;
+}
+
+.book-4 {
+  color: #333;
+  font-weight: normal;
+  font-family: Georgia, serif;
+  text-decoration: none;
+  font-size: 1.125rem;
+  max-width: 20em;
+  display: block;
+  padding: .2em .5em .3em;
+  background-color: #999;
+  text-align: center;
+}
