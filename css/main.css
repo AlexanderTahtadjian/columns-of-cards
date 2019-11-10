@@ -47,7 +47,7 @@ p {
 .book-1 {
   color: #333;
   font-weight: normal;
-  font-family: Georgia, serif;
+  font-family: "Open Sans", serif;
   text-decoration: none;
   font-size: 1rem;
   max-width: 20em;
@@ -60,7 +60,7 @@ p {
 .book-2 {
   color: #333;
   font-weight: normal;
-  font-family: Georgia, serif;
+  font-family: "Open Sans", serif;
   text-decoration: none;
   font-size: 1rem;
   max-width: 20em;
@@ -73,7 +73,7 @@ p {
 .book-3 {
   color: #333;
   font-weight: normal;
-  font-family: Georgia, serif;
+  font-family: "Open Sans", serif;
   text-decoration: none;
   font-size: 1rem;
   max-width: 20em;
@@ -86,7 +86,7 @@ p {
 .book-4 {
   color: #333;
   font-weight: normal;
-  font-family: Georgia, serif;
+  font-family: "Open Sans", serif;
   text-decoration: none;
   font-size: 1rem;
   max-width: 20em;
@@ -99,15 +99,15 @@ p {
 div a {
   color: #fff;
   font-weight: normal;
-  font-family: Georgia, serif;
+  font-family: "Open Sans", serif;
   text-decoration: none;
-  font-size: 1rem;
+  font-size: .875rem;
   max-width: 20em;
   display: block;
   padding: .2em .5em .3em;
   background-color: #333;
   border-radius: 4px;
-  text-align: center;
+  text-align: left;
 }
 
 a:hover {
