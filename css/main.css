@@ -26,6 +26,8 @@ body {
 img {
   width: 100px;
   height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 h1 {
@@ -37,6 +39,7 @@ h1 {
 
 h3 {
   font-size: 1rem;
+  font-style: italic;
 }
 
 strong {
@@ -54,7 +57,6 @@ p {
   font-family: "Open Sans", serif;
   text-decoration: none;
   font-size: 1rem;
-  max-width: 20em;
   display: block;
   padding: .2em .5em .3em;
   background-color: #e2e2e2;
@@ -67,7 +69,6 @@ p {
   font-family: "Open Sans", serif;
   text-decoration: none;
   font-size: 1rem;
-  max-width: 20em;
   display: block;
   padding: .2em .5em .3em;
   background-color: #ccc;
@@ -80,7 +81,6 @@ p {
   font-family: "Open Sans", serif;
   text-decoration: none;
   font-size: 1rem;
-  max-width: 20em;
   display: block;
   padding: .2em .5em .3em;
   background-color: #aaa;
@@ -93,7 +93,6 @@ p {
   font-family: "Open Sans", serif;
   text-decoration: none;
   font-size: 1rem;
-  max-width: 20em;
   display: block;
   padding: .2em .5em .3em;
   background-color: #999;
