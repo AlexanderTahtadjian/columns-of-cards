@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+header {
+  flex-grow: 100px;
+}
+
 .cards {
   margin: 0;
   padding: 0;
