@@ -16,7 +16,6 @@ html {
   text-align: center;
   display: flex;
   flex-direction: row;
-  flex-grow: 25%;
   justify-content: space-between;
   align-items: stretch;
 }
