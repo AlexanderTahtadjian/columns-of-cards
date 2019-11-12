@@ -2,6 +2,7 @@ html {
   font-family: "Open Sans", serif;
   line-height: 1.5;
   box-sizing: border-box;
+  background-color: #f2f2f2;
 }
 
 *, *::before, *::after {
@@ -37,7 +38,7 @@ h1 {
   margin: 0;
 }
 
-h3 {
+h2 {
   font-size: 1rem;
   font-style: italic;
 }
@@ -99,7 +100,7 @@ p {
   text-align: left;
 }
 
-div a {
+div .btn {
   color: #fff;
   font-weight: normal;
   font-family: "Open Sans", serif;
@@ -113,7 +114,7 @@ div a {
   text-align: left;
 }
 
-a:hover {
+.btn:hover {
   background-color: black;
   text-decoration: none;
 }
