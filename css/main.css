@@ -131,6 +131,7 @@ li {
   max-width: 20em;
   display: block;
   padding: .75rem;
+  margin: 0;
   background-color: #333;
   border-radius: 10px;
   text-align: left;
