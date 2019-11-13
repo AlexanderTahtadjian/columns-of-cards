@@ -130,9 +130,9 @@ li {
   font-size: .875rem;
   max-width: 20em;
   display: block;
-  padding: .2em .5em .3em;
+  padding: .75rem;
   background-color: #333;
-  border-radius: 4px;
+  border-radius: 10px;
   text-align: left;
 }
 
