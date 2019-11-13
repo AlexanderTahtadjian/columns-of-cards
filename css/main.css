@@ -10,7 +10,7 @@ html {
 }
 
 section {
-  flex-grow: 100px;
+  flex-grow: 1;
 }
 
 .cards {
