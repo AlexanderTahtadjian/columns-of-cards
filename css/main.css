@@ -29,10 +29,14 @@ body {
 }
 
 img {
-  width: 100px;
+  width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
+}
+
+.cards img {
+  width: 100px;
 }
 
 h1 {
@@ -40,6 +44,7 @@ h1 {
   color: #333;
   font-size: 2rem;
   margin: 0;
+  padding: 1.5rem;
 }
 
 h3 {
@@ -55,6 +60,10 @@ h2 {
 p {
   font-size: .875rem;
   font-weight: bold;
+}
+
+li {
+  padding: .75rem;
 }
 
 .book-1 {
