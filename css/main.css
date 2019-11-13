@@ -74,7 +74,7 @@ li {
   font-size: 1rem;
   width: 25%;
   display: block;
-  padding: .2em .5em .3em;
+  padding: .75rem;
   background-color: #e2e2e2;
   text-align: left;
 }
@@ -87,7 +87,7 @@ li {
   font-size: 1rem;
   width: 25%;
   display: block;
-  padding: .2em .5em .3em;
+  padding: .75rem;
   background-color: #ccc;
   text-align: left;
 }
@@ -100,7 +100,7 @@ li {
   font-size: 1rem;
   width: 25%;
   display: block;
-  padding: .2em .5em .3em;
+  padding: .75rem;
   background-color: #aaa;
   text-align: left;
 }
@@ -113,7 +113,7 @@ li {
   font-size: 1rem;
   width: 25%;
   display: block;
-  padding: .2em .5em .3em;
+  padding: .75rem;
   background-color: #999;
   text-align: left;
 }
